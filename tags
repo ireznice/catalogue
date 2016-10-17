@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Catalogue	lib/catalogue.rb	/^module Catalogue$/;"	m
+Catalogue	lib/catalogue/config.rb	/^module Catalogue$/;"	m
+Catalogue	lib/catalogue/database.rb	/^module Catalogue$/;"	m
+Catalogue	lib/catalogue/version.rb	/^module Catalogue$/;"	m
+Config	lib/catalogue/config.rb	/^  class Config < Settingslogic$/;"	c	class:Catalogue
+Database	lib/catalogue/database.rb	/^  class Database$/;"	c	class:Catalogue
+config	lib/catalogue.rb	/^    def config$/;"	f	class:Catalogue
+env	lib/catalogue.rb	/^    def env$/;"	f	class:Catalogue
+initialize	lib/catalogue/config.rb	/^    def initialize(source = nil, section = nil)$/;"	f	class:Catalogue.Config
+initialize	lib/catalogue/database.rb	/^    def initialize$/;"	f	class:Catalogue.Database
+root	lib/catalogue.rb	/^    def root$/;"	f	class:Catalogue
